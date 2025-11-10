@@ -1,48 +1,67 @@
-#Varun Portfolio
+#  Sudoku Game – Java Edition
 
-Welcome to my personal portfolio website!  
-This project showcases my skills, projects, and achievements as a Computer Science Engineering graduate, highlighting my passion for web development and software engineering.
-
----
-
-## About Me
-I’m an enthusiastic Computer Science Engineering graduate with a strong foundation in **Java development** and **web technologies**.  
-I love building creative, functional websites and exploring new technologies to enhance my technical skills.
+Welcome to **Java Sudoku**, a classic logic-based puzzle game built using **Java Swing**.  
+This project demonstrates strong Java programming and GUI development skills with an interactive, user-friendly Sudoku interface.
 
 ---
 
-## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Programming Languages:** Java, Python  
-- **Tools & Technologies:** Git, VS Code, IoT (hands-on experience)
+##  Overview
+
+The Sudoku game allows users to:
+- Play randomly generated Sudoku puzzles
+- Input numbers and check for correctness
+- Use hints or view solutions
+- Enjoy a responsive and intuitive interface made with Java Swing
 
 ---
 
-## Features
-- Responsive and modern web design  
-- Smooth navigation and UI interactions  
-- Personal introduction and skill highlights  
-- Showcase of academic and project achievements  
-- Contact section for networking opportunities
+##  Tech Stack
+- **Language:** Java  
+- **Framework:** Java Swing  
+- **IDE:** IntelliJ IDEA  
+- **Concepts Used:** Object-Oriented Programming (OOP), Event Handling, GUI Components
 
 ---
 
+## 📂 Project Structure
+Sudoku-main/
+│
+├── MySudoku.png # Game interface image
+└── javaSudokuFinal/
+├── src/ 
+├── bin/ 
+├── doc/ 
 
-## How to Run
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/vkcs234/Varun_Portfolio.git
-   ```
-2. Open the folder in your code editor (e.g., VS Code).  
-3. Open `index.html` in any web browser to view the portfolio.
-
----
-
-## Future Enhancements
-- Add dark/light mode toggle  
-- Include project showcase cards  
-- Integrate backend for contact form submissions  
 
 ---
 
-*Feel free to explore, fork, or suggest improvements to this portfolio project!*
+##  How to Run
+
+1. Open the project in your preferred **Java IDE** (Eclipse or IntelliJ IDEA).  
+2. Locate the `src` folder inside `javaSudokuFinal`.  
+3. Run the main file — typically named something like:
+SudokuMain.java
+
+4. The Sudoku game window will appear. Enjoy playing!
+
+---
+
+##  Features
+- Fully functional Sudoku grid  
+- Input validation and conflict checking  
+- Option to restart or generate new puzzles  
+- GUI built with Swing components  
+- Easy-to-understand modular code structure
+
+---
+
+##  Learning Highlights
+This project demonstrates:
+- Event-driven programming in Java  
+- Layout management and GUI design using Swing  
+- Logic implementation for Sudoku solving and validation  
+- Strong OOP principles with modular code organization
+
+---
+
+ *If you like this project, feel free to fork, contribute, or share feedback!*
